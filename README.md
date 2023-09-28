@@ -1,8 +1,8 @@
 # Online_Exam
 The project is capable of the following functionalities.
-Login 
-Update
-Profile and Password 
-Selecting answers for MCQs 
-Timer and auto submit 
-Closing session and Logout
+1.Login 
+2.Update
+3.Profile and Password 
+4.Selecting answers for MCQs 
+5.Timer and auto submit 
+6.Closing session and Logout
